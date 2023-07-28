@@ -4,3 +4,4 @@ This is the thought process and code behind the designing of the robot for J. Cl
 
 
 ![image](https://github.com/romistaro/FTC-triwheelomnidrive/assets/77026665/47f87d2d-1b7e-4703-a0a8-195c675a9c6b)
+<img src="https://github.com/favicon.ico" width="48">
